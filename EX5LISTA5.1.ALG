@@ -20,7 +20,7 @@ escreval("Informe um número :")
 leia(num)
 contador <- 1
 resultado <- num * contador
-enquanto(contador <= 10)faca
+enquanto(contador <= 10) faca
          escreval(num ,".",contador,"=",resultado)
          contador <- contador + 1
 fimenquanto
